@@ -45,10 +45,6 @@ sudo ./mac_changer.py
 
 5. Follow the instructions provided by the script to select an interface and enter a new MAC address.
 
-## Author
-
-- [SahanEra](https://sahanera.me)
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
